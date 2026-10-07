@@ -1,5 +1,13 @@
 # 5583_FUR7.2_OpenSourceSoftware
 
+## Identifiers
+|Item|Value
+|---|---
+|Chipset|5583
+|Release|FUR7.2
+|FW Versions|3.720.X.Y
+|Download Link|https://d2mi77xcznxniv.cloudfront.net/index.html?file=5583_OSS_FUR7.2.zip
+
 ## Environment
 Individual build components may list different versions of Ubuntu for compilation in their respective readme / build instruction files, however, all modules here in were compiled successfully on Ubuntu 22.04 (jammy).
 
@@ -17,7 +25,7 @@ unzip 5583_OSS_FUR7.2.zip
 cd 5583_FUR7.2
 ```
 
-After running these commands you can see the modules and a readme. For an easy and straightforward build, follow the instructions in the readme as-is. Each module also contains its own readme or build instruction file. 
+After running these commands you can see the modules and a readme. For an easy and straightforward build, follow the instructions in the readme as-is. Each module also contains its own readme or build instruction file.
 
-## Source Location
-Download source archive here: https://d2mi77xcznxniv.cloudfront.net/index.html?file=5583_OSS_FUR7.2.zip
+Download the source archive here:
+https://d2mi77xcznxniv.cloudfront.net/index.html?file=5583_OSS_FUR7.2.zip
